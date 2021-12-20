@@ -17,18 +17,14 @@
             <p><a href="https://drive.google.com/file/d/1akObx2ofNpWyd2OMt2vvRZDC7Xe5BpFe/view?usp=sharing ">imagem pag2</a></p>
             <p><a href="https://drive.google.com/file/d/1aocOpgSfC6nUUYoNoEMiZvvHfdbb9_y2/view?usp=sharing">imagem pag3</a> </p>
             <p><a href="https://drive.google.com/file/d/1au2f7RE9hbVQq__CawOPDNnWWjx2SzZ1/view?usp=sharing">imagem pag4</a> </p>
+        
 
+            <h4><u> Equipe:</u><h4>
+                <p> Carlos Daniel de Lima Feitosa</p>
+                <p>Luana da Silva</p>
+                <p>Maria Vitória da Silva</p>
+                <p>Maria Rikele dos Santos Félix</p>
         </main>
     </body>
-
-    <h4><u> Equipe:</u><h4>
-        <p> Carlos Daniel de Lima Feitosa</p>
-        <p>Luana da Silva</p>
-        <p>Maria Vitória da Silva</p>
-        <p>Maria Rikele dos Santos Félix</p>
-
-
-
-
 </head>
 </html>
