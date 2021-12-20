@@ -21,9 +21,9 @@
 
             <h4><u> Equipe:</u><h4>
                 <p> Carlos Daniel de Lima Feitosa</p>
-                <p>Luana da Silva</p>
-                <p>Maria Vitória da Silva</p>
-                <p>Maria Rikele dos Santos Félix</p>
+                <p> Luana da Silva</p>
+                <p> Maria Vitória da Silva</p>
+                <p> Maria Rikele dos Santos Félix</p>
     </body>
         </main>
 </html>
