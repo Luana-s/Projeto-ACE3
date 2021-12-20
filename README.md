@@ -24,7 +24,6 @@
                 <p>Luana da Silva</p>
                 <p>Maria Vitória da Silva</p>
                 <p>Maria Rikele dos Santos Félix</p>
-        </main>
+        <main>
     </body>
-</head>
-</html>
+<html>
